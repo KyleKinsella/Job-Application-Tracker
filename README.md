@@ -22,3 +22,6 @@ A section where you can enter your name and see the information displayed back.
 * Applications Page - the core functionality
 You can input job application details and they will appear in a clean, structured table.
 Data persists using LocalStorage, so refreshing the page won’t remove your entries.
+
+# Upcoming Feature
+* Light & Dark Mode - you will be able to toggle between the two modes.
