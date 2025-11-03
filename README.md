@@ -25,3 +25,4 @@ Data persists using LocalStorage, so refreshing the page won’t remove your ent
 
 # Upcoming Feature
 * Light & Dark Mode - you will be able to toggle between the two modes.
+* and much more...
