@@ -2,6 +2,7 @@
 
 ## Table of Contents
 - [What is this project](#What is this project)
+- [Features](#Whatisthisproject)
 - [Upcoming Features](#upcoming-features)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
