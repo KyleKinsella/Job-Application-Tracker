@@ -1,7 +1,7 @@
 # Job-Application-Tracker, Started on: (3/11/25)
 
 ## Table of Contents
-- [What is this project](#What-is-this-project)
+- [What is this Project](#What-is-this-project)
 - [Learning a New Technology](#Learning-a-New-Technology)
 - [Tech Stack](#Tech-Stack)
 - [Current Features](#Current-Features)
@@ -9,7 +9,7 @@
 - [Contributing](#Contributing)
 - [License](#License)
 
-# What is this project?
+# What is this Project?
 This project is designed to help you keep track of the jobs you’ve applied for - including key details like company, role, application date, and current stage in the hiring process.
 
 It's meant to be a simple personal tool to stay organized during a job search.
