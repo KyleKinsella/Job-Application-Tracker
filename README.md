@@ -61,5 +61,5 @@ Data persists using LocalStorage, so refreshing the page won’t remove your ent
 # Contributing
 * This is a personal project for learning purposes. Contributions are welcome!
 
-## License
+# License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
