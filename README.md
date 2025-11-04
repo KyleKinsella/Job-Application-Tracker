@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [What is this project](#What is this project)
-- [Features](#Whatisthisproject)
+- [Current Features](#CurrentFeatures)
 - [Upcoming Features](#upcoming-features)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
@@ -29,7 +29,7 @@ The goal is to improve my frontend development skills and gain more familiarity 
 * Git
 * Docker (maybe)
 
-# Current Features
+## Current Features
 Right now, the application includes:
 
 * Home Page - basic landing page for the app
