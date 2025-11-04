@@ -1,5 +1,7 @@
 import './welcome.css'
 import Nav from './Nav.jsx'
+import Mode from './Mode.jsx'
+import './Mode.css'
 
 function Welcome() {
     return (
@@ -10,10 +12,11 @@ function Welcome() {
                 <br /><br />
                 Let's get going, shall we?
             </p>
-            
+
             <hr />
             <Nav></Nav>
             <hr />
+            <Mode></Mode>
         </header>
     )
 }
