@@ -28,20 +28,20 @@ The goal is to improve my frontend development skills and gain more familiarity 
 * Git
 * Docker (maybe)
 
-## Installation
+# Installation
 1. Clone the repo: `git clone https://github.com/yourusername/Job-Application-Tracker.git`
 2. Navigate to the project folder: `cd Job-Application-Tracker`
 3. Install dependencies: `npm install`
 4. Start the app: `npm start`
 5. Open your browser at `http://localhost:3000`
 
-## Usage
+# Usage
 - Go to the Applications page.
 - Fill in the fields with job application details.
 - Click "Record This Job" to add it to your table.
 - Data is stored locally, so it persists even after refreshing.
 
-## Current Features
+# Current Features
 Right now, the application includes:
 
 * Home Page - basic landing page for the app
