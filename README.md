@@ -1,7 +1,7 @@
-# Job-Application-Tracker (3/11/25)
+# Job-Application-Tracker, Started on: (3/11/25)
 
 ## Table of Contents
-- [What is this project](#What-is-this-project)
+- [What is this Project](#What-is-this-project)
 - [Learning a New Technology](#Learning-a-New-Technology)
 - [Tech Stack](#Tech-Stack)
 - [Current Features](#Current-Features)
@@ -9,7 +9,7 @@
 - [Contributing](#Contributing)
 - [License](#License)
 
-# What is this project?
+# What is this Project?
 This project is designed to help you keep track of the jobs you’ve applied for - including key details like company, role, application date, and current stage in the hiring process.
 
 It's meant to be a simple personal tool to stay organized during a job search.
@@ -28,30 +28,29 @@ The goal is to improve my frontend development skills and gain more familiarity 
 * Git
 * Docker (maybe)
 
-## Installation
+# Installation
 1. Clone the repo: `git clone https://github.com/yourusername/Job-Application-Tracker.git`
 2. Navigate to the project folder: `cd Job-Application-Tracker`
 3. Install dependencies: `npm install`
 4. Start the app: `npm start`
 5. Open your browser at `http://localhost:3000`
 
-## Usage
+# Usage
 - Go to the Applications page.
 - Fill in the fields with job application details.
 - Click "Record This Job" to add it to your table.
 - Data is stored locally, so it persists even after refreshing.
 
-## Current Features
+# Current Features
 Right now, the application includes:
 
 * Home Page - basic landing page for the app
 
 * Profile Page (temporary) - 
 A section where you can enter your name and see the information displayed back.
-(No data is stored — this is purely a frontend project. This feature may be removed later.)
+(No data is stored - this is purely a frontend project. This feature may be removed later.)
 
-* Applications Page - the core functionality
-You can input job application details and they will appear in a clean, structured table.
+* Applications Page - the core functionality. You can input job application details and they will appear in a clean, structured table.
 Data persists using LocalStorage, so refreshing the page won’t remove your entries.
 
 # Upcoming Feature
@@ -61,5 +60,5 @@ Data persists using LocalStorage, so refreshing the page won’t remove your ent
 # Contributing
 * This is a personal project for learning purposes. Contributions are welcome!
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+# License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
