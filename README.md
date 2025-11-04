@@ -50,8 +50,7 @@ Right now, the application includes:
 A section where you can enter your name and see the information displayed back.
 (No data is stored - this is purely a frontend project. This feature may be removed later.)
 
-* Applications Page - the core functionality
-You can input job application details and they will appear in a clean, structured table.
+* Applications Page - the core functionality. You can input job application details and they will appear in a clean, structured table.
 Data persists using LocalStorage, so refreshing the page won’t remove your entries.
 
 # Upcoming Feature
