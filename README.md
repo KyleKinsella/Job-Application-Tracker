@@ -1,5 +1,14 @@
 # Job-Application-Tracker (3/11/25)
 
+## Table of Contents
+- [Features](#features)
+- [Upcoming Features](#upcoming-features)
+- [Tech Stack](#tech-stack)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
 # What is this project?
 This project is designed to help you keep track of the jobs you’ve applied for - including key details like company, role, application date, and current stage in the hiring process.
 
@@ -9,6 +18,15 @@ It's meant to be a simple personal tool to stay organized during a job search.
 I’m currently learning React, and this project is a way for me to gain real hands-on experience while also building something useful.
 
 The goal is to improve my frontend development skills and gain more familiarity with modern JavaScript tooling.
+
+# Tech Stack
+* HTML
+* CSS
+* Javascript
+* React 
+* Ajax (maybe)
+* Git
+* Docker (maybe)
 
 # Current Features
 Right now, the application includes:
