@@ -7,6 +7,7 @@
 - [Current Features](#Current-Features)
 - [Upcoming Feature](#Upcoming-Feature)
 - [Contributing](#Contributing)
+- [License](#License)
 
 # What is this project?
 This project is designed to help you keep track of the jobs you’ve applied for - including key details like company, role, application date, and current stage in the hiring process.
@@ -59,3 +60,6 @@ Data persists using LocalStorage, so refreshing the page won’t remove your ent
 
 # Contributing
 * This is a personal project for learning purposes. Contributions are welcome!
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
