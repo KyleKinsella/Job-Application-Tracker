@@ -1,7 +1,7 @@
 # Job-Application-Tracker (3/11/25)
 
 ## Table of Contents
-- [Features](#features)
+- [What is this project](#What is this project)
 - [Upcoming Features](#upcoming-features)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
