@@ -59,7 +59,7 @@ Data persists using LocalStorage, so refreshing the page won’t remove your ent
 * and much more...
 
 # Images
-<img src="images-at-the-moment/1000018156.jpg" width="300" alt="Mode" />
+<img src="images-at-the-moment/1000018156.jpg" width="300" height="150" alt="Mode" />
 
 # Contributing
 * This is a personal project for learning purposes. Contributions are welcome!
