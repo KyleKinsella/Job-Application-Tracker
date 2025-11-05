@@ -60,13 +60,10 @@ Data persists using LocalStorage, so refreshing the page won’t remove your ent
 
 # Images
 <p>This is Light Mode:</p>
-<ul>
-  <li><img src="images-at-the-moment/1000018156.jpg" width="300" alt="Light Mode" /></li>
-  <li> <img src="images-at-the-moment/1000018158.jpg" width="300" alt="Dark Mode" /></li>
-</ul>
-
+<img src="images-at-the-moment/1000018156.jpg" width="300" alt="Light Mode" />
 
 <p>This is Dark Mode:</p>
+<img src="images-at-the-moment/1000018158.jpg" width="300" alt="Dark Mode" />
 
 # Contributing
 * This is a personal project for learning purposes. Contributions are welcome!
