@@ -4,11 +4,11 @@
     margin: 5px;
     text-decoration: none;
     font-size: 15px;
-    {{/* float: right; */}}
+    float: right;
 }
 
 .light-mode {
-    background-color: grey;
+    background-color: white;
     color: black;
 }
 
