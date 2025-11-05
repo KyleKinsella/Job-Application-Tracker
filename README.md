@@ -8,6 +8,7 @@
 - [Upcoming Feature](#Upcoming-Feature)
 - [Contributing](#Contributing)
 - [License](#License)
+- [Project at the moment](#images/1000018156.jpg)
 
 # What is this Project?
 This project is designed to help you keep track of the jobs you’ve applied for - including key details like company, role, application date, and current stage in the hiring process.
